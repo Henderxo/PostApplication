@@ -1,0 +1,69 @@
+
+.button{
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    padding-right: 10px;
+    font-size: large;
+}
+.select {
+    padding: 5px;
+    color: #000;
+    border-radius: 5px;
+    font-size: 16px;
+    background: transparent;
+}
+.searchBar{
+    padding: 5px;
+    margin-right: auto;
+    position: relative;
+    align-items: center;
+}
+.blockContent{
+    width: 500px;
+    height: auto;
+    background: blanchedalmond;
+    padding: 20px;
+    border: solid;
+    border-radius: 5px;
+    border-color: black;
+    margin-right: auto;
+    margin-left: auto;
+    word-break: normal;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+}
+.search {
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    padding: 2px 5px 2px 5px;
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+  }
+.modal-content {
+    position:flex;
+    display: flex;
+    width: 800px;
+    justify-self: center;
+    border: solid;
+    border-color: black;
+    border-radius: 5px;
+    background-color: blanchedalmond;
+    padding: 20px;
+    word-break: normal;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+}
+.textArea{
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    padding: 2px 5px 2px 5px;
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+    width: 100%;
+    height: 150px;
+    resize:none;
+}

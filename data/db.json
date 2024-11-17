@@ -1,0 +1,268 @@
+{
+  "users": [
+    {
+      "email": "regular@notreal.com",
+      "password": "$2a$10$wrSOb2J7qq1QDNmovvT34OIReYBv6aTvD9gnb6BzsGy5AY.yAGBru",
+      "name": "Regular user",
+      "id": 1
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Nedas",
+      "surname": "NedasNedas",
+      "userId": 1,
+      "created_at": "2024-05-05T12:00:00Z",
+      "updated_at": "2024-09-23T07:14:46.951Z"
+    },
+    {
+      "id": 2,
+      "name": "Jane",
+      "surname": "Smith",
+      "userId": 1,
+      "created_at": "2024-05-05T12:00:00Z",
+      "updated_at": "2024-05-05T12:00:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Michael",
+      "surname": "Johnson",
+      "userId": 1,
+      "created_at": "2024-05-05T12:00:00Z",
+      "updated_at": "2024-09-19T06:04:51.640Z"
+    },
+    {
+      "id": 4,
+      "name": "Emily",
+      "surname": "Brown",
+      "userId": 1,
+      "created_at": "2024-05-05T12:00:00Z",
+      "updated_at": "2024-05-05T12:00:00Z"
+    },
+    {
+      "id": 5,
+      "name": "David",
+      "surname": "Wilson",
+      "userId": 1,
+      "created_at": "2024-05-05T12:00:00Z",
+      "updated_at": "2024-05-05T12:00:00Z"
+    },
+    {
+      "name": "Walter",
+      "surname": "White",
+      "userId": 1,
+      "created_at": "2024-09-18T05:27:05.290Z",
+      "updated_at": "2024-09-19T07:31:21.346Z",
+      "id": 7
+    },
+    {
+      "name": "Ruthh",
+      "surname": "Simpson",
+      "userId": 1,
+      "created_at": "2024-09-19T07:31:00.171Z",
+      "updated_at": "2024-09-23T06:46:30.539Z",
+      "id": 8
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "First Post",
+      "body": "This is the body of the first post. It contains more than twenty five words to fulfill the requirement of the task. This is just a filler text to meet the criteria.",
+      "authorId": 1,
+      "userId": 1,
+      "created_at": "2024-05-05T12:00:00Z",
+      "updated_at": "2024-09-23T08:00:22.604Z"
+    },
+    {
+      "id": 2,
+      "title": "Second Post",
+      "body": "This is the body of the second post. It contains more than twenty five words to fulfill the requirement of the task. This is just a filler text to meet the criteria.",
+      "authorId": 2,
+      "userId": 1,
+      "created_at": "2024-05-05T12:01:00Z",
+      "updated_at": "2024-09-23T08:00:35.480Z"
+    },
+    {
+      "id": 3,
+      "title": "Third Post",
+      "body": "This is the body of the third post. It contains more than twenty five words to fulfill the requirement of the task. This is just a filler text to meet the criteria. (Updated)",
+      "authorId": 3,
+      "userId": 1,
+      "created_at": "2024-05-05T12:02:00Z",
+      "updated_at": "2024-09-23T07:43:01.992Z"
+    },
+    {
+      "id": 4,
+      "title": "Fourth Post",
+      "body": "This is the body of the fourth post. It contains more than twenty five words to fulfill the requirement of the task. This is just a filler text to meet the criteria.",
+      "authorId": 4,
+      "userId": 1,
+      "created_at": "2024-05-05T12:03:00Z",
+      "updated_at": "2024-05-05T12:03:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Fifth Post",
+      "body": "This is the body of the fifth post. It contains more than twenty five words to fulfill the requirement of the task. This is just a filler text to meet the criteria.",
+      "authorId": 5,
+      "userId": 1,
+      "created_at": "2024-05-05T12:04:00Z",
+      "updated_at": "2024-09-23T07:43:34.975Z"
+    },
+    {
+      "id": 6,
+      "title": "Sixth Post",
+      "body": "This is the body of the sixth post. It contains more than twenty five words to fulfill the requirement of the task. This is just a filler text to meet the criteria.",
+      "authorId": 1,
+      "userId": 1,
+      "created_at": "2024-05-05T12:05:00Z",
+      "updated_at": "2024-05-05T12:05:00Z"
+    },
+    {
+      "id": 7,
+      "title": "Seventh Post",
+      "body": "This is the body of the seventh post. It contains more than twenty five words to fulfill the requirement of the task. This is just a filler text to meet the criteria.",
+      "authorId": 2,
+      "userId": 1,
+      "created_at": "2024-05-05T12:06:00Z",
+      "updated_at": "2024-05-05T12:06:00Z"
+    },
+    {
+      "id": 8,
+      "title": "Eighth Post",
+      "body": "This is the body of the eighth post. It contains more than twenty five words to fulfill the requirement of the task. This is just a filler text to meet the criteria.",
+      "authorId": 3,
+      "userId": 1,
+      "created_at": "2024-05-05T12:07:00Z",
+      "updated_at": "2024-05-05T12:07:00Z"
+    },
+    {
+      "id": 9,
+      "title": "Ninth Post9",
+      "body": "This is the body of the ninth post. It contains more than twenty five words to fulfill the requirement of the task. This is just a filler text to meet the criteria.",
+      "authorId": 4,
+      "userId": 1,
+      "created_at": "2024-05-05T12:08:00Z",
+      "updated_at": "2024-09-23T07:43:56.442Z"
+    },
+    {
+      "title": "First New post for testing",
+      "body": "Testing text. Random text to make up the word count. This post is being generated for the purpose of testing. It fulfills the requirement of having at least twenty five words in the body field.",
+      "authorId": 1,
+      "userId": 1,
+      "created_at": "2024-05-05T17:14:15Z",
+      "updated_at": "2024-05-05T17:14:15Z",
+      "id": 10
+    },
+    {
+      "title": "Second New post for testing",
+      "body": "Testing text. Random text to make up the word count. This post is being generated for the purpose of testing. It fulfills the requirement of having at least twenty five words in the body field.",
+      "authorId": 1,
+      "userId": 1,
+      "created_at": "2024-05-05T17:14:15Z",
+      "updated_at": "2024-05-05T17:14:15Z",
+      "id": 11
+    },
+    {
+      "title": "Third New post for testing",
+      "body": "Testing text. Random text to make up the word count. This post is being generated for the purpose of testing. It fulfills the requirement of having at least twenty five words in the body field.",
+      "authorId": 1,
+      "userId": 1,
+      "created_at": "2024-05-05T17:14:15Z",
+      "updated_at": "2024-05-05T17:14:15Z",
+      "id": 12
+    },
+    {
+      "id": 13,
+      "title": "Fourth New post for me",
+      "body": "Text was deleted !!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+      "authorId": 1,
+      "userId": 1,
+      "created_at": "2024-05-05T17:14:15Z",
+      "updated_at": "2024-09-23T07:44:08.369Z"
+    },
+    {
+      "id": 14,
+      "title": "Post",
+      "body": "Testing text. Random text to make up the word count. This post is being generated for the purpose of testing. It fulfills the requirement of having at least twenty five words in the body field.",
+      "authorId": 1,
+      "userId": 1,
+      "created_at": "2024-05-05T17:14:15Z",
+      "updated_at": "2024-09-23T07:44:14.304Z"
+    },
+    {
+      "id": 15,
+      "title": "New post made for edit",
+      "body": "Walter white is the best :D",
+      "authorId": 7,
+      "userId": 1,
+      "created_at": "2024-09-20T06:24:44.833Z",
+      "updated_at": "2024-09-23T07:44:20.960Z"
+    },
+    {
+      "title": "Hello world 123 456 78 9 12 4 557",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "authorId": 5,
+      "userId": 1,
+      "created_at": "2024-09-20T06:30:59.996Z",
+      "updated_at": "2024-09-20T06:30:59.996Z",
+      "id": 16
+    },
+    {
+      "title": "Huge post",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "authorId": 4,
+      "userId": 1,
+      "created_at": "2024-09-20T06:32:07.569Z",
+      "updated_at": "2024-09-20T06:32:07.569Z",
+      "id": 17
+    },
+    {
+      "title": "Title here",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s.",
+      "authorId": 3,
+      "userId": 1,
+      "created_at": "2024-09-20T06:33:11.239Z",
+      "updated_at": "2024-09-20T06:33:11.239Z",
+      "id": 18
+    },
+    {
+      "title": "MAXSIZEEEEEEEEEEEEEEEEEEE",
+      "body": "EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE",
+      "authorId": 7,
+      "userId": 1,
+      "created_at": "2024-09-25T08:29:45.061Z",
+      "updated_at": "2024-09-25T08:29:45.061Z",
+      "id": 19
+    },
+    {
+      "title": "Linebreak Showcase",
+      "body": "Line,\nLine,\nLine,\nLine,\nLine,\nLine,\nLine,\nLine,\nLine,\nLine,\nLine,\nLine,\nLine,\nLine,\nLine,\nLine,\nLine,\nLine,\nLine,\nLine,\nLine,\nLine,\nv\nLine,\n",
+      "authorId": 7,
+      "userId": 1,
+      "created_at": "2024-09-25T08:30:28.152Z",
+      "updated_at": "2024-09-25T08:30:28.152Z",
+      "id": 20
+    },
+    {
+      "title": "Dancing Cats",
+      "body": "(_＼ヽ\n　 ＼＼ .Λ＿Λ.\n　　 ＼(　ˇωˇ)　\n　　　 >　⌒ヽ\n　　　/ 　 へ＼\n　　 /　　/　＼＼\n　　 ﾚ　ノ　　 ヽ_つ\n　　/　/\n　 /　/|\n　(　(ヽ\n　|　|、＼\n　| 丿 ＼ ⌒)\n　| |　　) /\n`ノ ) 　 Lﾉ\n(_／",
+      "authorId": 7,
+      "userId": 1,
+      "created_at": "2024-09-25T08:30:49.616Z",
+      "updated_at": "2024-09-25T08:30:49.616Z",
+      "id": 21
+    },
+    {
+      "title": "Cats dancing2",
+      "body": "(_＼ヽ\n　 ＼＼ .Λ＿Λ.\n　　 ＼(　ˇωˇ)　\n　　　 >　⌒ヽ\n　　　/ 　 へ＼\n　　 /　　/　＼＼\n　　 ﾚ　ノ　　 ヽ_つ\n　　/　/\n　 /　/|\n　(　(ヽ\n　|　|、＼\n　| 丿 ＼ ⌒)\n　| |　　) /\n`ノ ) 　 Lﾉ\n(_／",
+      "authorId": 8,
+      "userId": 1,
+      "created_at": "2024-09-25T09:17:18.756Z",
+      "updated_at": "2024-09-25T09:17:18.756Z",
+      "id": 23
+    }
+  ]
+}
